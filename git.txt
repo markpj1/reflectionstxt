@@ -1,0 +1,3 @@
+got log git diff
+
+using logical commits can be a saver of time and frustration, try to do commits that are not to small so you can avoid to many files, not to large that you cannot see the diff. maybe think in modular 
